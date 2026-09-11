@@ -17,7 +17,11 @@ Version 5 combines GPU-assisted noise analysis, predictive click repair, and fre
 
 _Add the matching restored audio sample here.
 
-[Love One Another - V5 Balanced.mp3](https://github.com/user-attachments/files/32082637/Love.One.Another.-.V5.Balanced.mp3)
+
+
+https://github.com/user-attachments/assets/e89d3d5a-a686-4817-8d02-12c279c23a7f
+
+
 
 
 
