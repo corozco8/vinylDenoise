@@ -8,7 +8,11 @@ Version 5 combines GPU-assisted noise analysis, predictive click repair, and fre
 
 ### Original recording
 
-[Love One Another.mp3](https://github.com/user-attachments/files/32082592/Love.One.Another.mp3)
+
+
+https://github.com/user-attachments/assets/86cbb117-d09a-444b-8b67-d6f316a19789
+
+
 
 
 
